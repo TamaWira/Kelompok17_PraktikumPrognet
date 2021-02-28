@@ -1,0 +1,13 @@
+body {
+	background-color : gray;
+}
+
+.kolom-form {
+	padding : 20px 20px;
+    background-color : white;
+}
+
+.tombol-submit {
+	background-color : green;
+	color : white;
+}

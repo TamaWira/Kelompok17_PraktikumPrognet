@@ -1,0 +1,159 @@
+.content-body {
+	background-image: url(../img/bg.jpg);
+	background-size : cover;
+}
+
+/* NAVBAR */
+nav {
+	background-color: white;
+	padding-bottom : 0px;
+}
+
+.logo-img {
+	width : 50px;
+}
+
+.logo-name {
+    text-decoration : none;
+    color : #6DBAFC;
+}
+
+#tombol-logout {
+    color : #6DBAFC;
+    border : 1px solid #6DBAFC;
+    font-size : 15px;
+}
+
+#akun-icon {
+    font-size : 50px;
+    color : #FCC56D;
+    margin-right : 10px;
+}
+
+/* KONTEN */
+
+#header {
+    padding-top : 30px;
+}
+
+#header-txt {
+	font-size : 50px;
+	font-family : "Hammersmith One";
+	color : white;
+	margin-bottom : 20px;
+}
+
+#konten-row {
+	padding : 20px 20px;
+}
+
+/* FILTER */
+
+#kol-filter {
+	padding : 20px 20px;
+	background-color: #4c56c0;
+}
+
+.judul-filter {
+	font-size : 20px;
+	color : white;
+	margin-top : 30px;
+	margin-bottom : 50px;
+	font-weight : bold;
+}
+
+.form-group {
+	padding : 0px 20px;
+}
+
+label {
+	color : white;
+}
+
+#tombol-cek {
+	background-color: #fa607e;
+	color : white;
+	margin-top : 50px;
+	width : 30%;
+	border-radius : 50px;
+	margin-left : 15px;
+	margin-right : 5px;
+}
+
+#tombol-tambah {
+	background-color: #fa607e;
+	color : white;
+	margin-top : 50px;
+	width : 60%;
+	border-radius : 50px;
+}
+
+/* MODAL */
+.modal-header, .modal-body, .modal-footer {
+	background-color: #4c56c0;
+	color : white;
+}
+
+#tambah-kontrak, #closeModal {
+	background-color : #fa607e;
+	color : white;
+}
+
+/* DATA */
+
+.kolom-data {
+	padding : 20px 20px;
+	background-color: white;
+}
+
+.row-judul-data {
+	padding-left : 20px;
+}
+
+.data-txt, .lapak-txt {
+	font-size : 20px;
+	font-weight : bold;
+	margin-bottom : 10px;
+	margin-top : 20px;
+}
+
+.data-txt {
+	color : #4c56c0;
+}
+
+.lapak-txt {
+	color : #FCC56D;
+}
+
+.tabel-lapak{
+	margin-left: 20px;
+	height : 10vh;
+}
+
+.table-head {
+	background-color: #4c56c0;
+	color : white;
+}
+
+.row-biaya {
+	height : 45px;
+}
+
+.kolom-biaya {
+	margin-left: 20px;
+	margin-top : 30px;
+	font-weight: bold;
+	font-size : 20px;
+}
+
+.biaya {
+	color : #4c56c0;
+}
+
+#tombol-bayar {
+	background-color: #3FD096;
+	color : white;
+	margin-top : 133px;
+	width : 90%;
+	border-radius : 50px;
+}

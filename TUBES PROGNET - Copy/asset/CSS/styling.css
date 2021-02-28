@@ -1,0 +1,63 @@
+.section {
+	position: relative;
+	height: 87vh;
+	background-image : url('../Images/bg.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.kolom-gambar {
+	margin-top : 100px;
+	padding : 50px 50px;
+}
+
+.pic-form {
+	height : 400px;
+}
+
+.box-container {
+	padding-bottom : 20px;
+	background-color : white;
+	margin-top : 100px;
+}
+
+.header {
+	padding-top : 20px;
+	padding-bottom : 20px;
+	background-color : #89C4F8;
+	color : #230FD9;
+}
+
+.row-form {
+	padding-right : 40px;
+	padding-left : 40px;
+}
+
+.kolom-form {
+	padding-right : 40px;
+	padding-left : 40px;
+	margin-top : 30px;
+}
+
+#tombol-cek {
+	border : 1px solid #89C4F8;
+}
+
+.logo-name {
+	margin-top : 10px;
+	font-size : 30px;
+}
+
+.tombol-submit {
+	background-color : #89C4F8;
+	color : white;
+}
+
+.logo-img {
+	width : 50px;
+	margin-bottom : 20px;
+}
+
+.tombol-grup {
+	margin-top : 60px;
+}
